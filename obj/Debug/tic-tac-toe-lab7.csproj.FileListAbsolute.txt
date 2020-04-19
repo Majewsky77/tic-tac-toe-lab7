@@ -5,3 +5,10 @@ C:\Users\Maciek\Desktop\WSEI\Programowanie C#\tic-tac-toe-lab7\obj\Debug\tic-tac
 C:\Users\Maciek\Desktop\WSEI\Programowanie C#\tic-tac-toe-lab7\obj\Debug\tic-tac-toe-lab7.csproj.CoreCompileInputs.cache
 C:\Users\Maciek\Desktop\WSEI\Programowanie C#\tic-tac-toe-lab7\obj\Debug\tic-tac-toe-lab7.exe
 C:\Users\Maciek\Desktop\WSEI\Programowanie C#\tic-tac-toe-lab7\obj\Debug\tic-tac-toe-lab7.pdb
+C:\Users\Maciek\Source\Repos\Majewsky77\tic-tac-toe-lab7\bin\Debug\tic-tac-toe-lab7.exe.config
+C:\Users\Maciek\Source\Repos\Majewsky77\tic-tac-toe-lab7\bin\Debug\tic-tac-toe-lab7.exe
+C:\Users\Maciek\Source\Repos\Majewsky77\tic-tac-toe-lab7\bin\Debug\tic-tac-toe-lab7.pdb
+C:\Users\Maciek\Source\Repos\Majewsky77\tic-tac-toe-lab7\obj\Debug\tic-tac-toe-lab7.csprojAssemblyReference.cache
+C:\Users\Maciek\Source\Repos\Majewsky77\tic-tac-toe-lab7\obj\Debug\tic-tac-toe-lab7.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Source\Repos\Majewsky77\tic-tac-toe-lab7\obj\Debug\tic-tac-toe-lab7.exe
+C:\Users\Maciek\Source\Repos\Majewsky77\tic-tac-toe-lab7\obj\Debug\tic-tac-toe-lab7.pdb
